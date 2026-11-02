@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "camiseta-basica-preta",
+    "name": "Camiseta Básica Preta",
+    "description": "Algodão 100%, corte reto e acabamento reforçado.",
+    "price": 7990,
+    "category": "Roupas",
+    "image": null,
+    "stock": 25
+  },
+  {
+    "id": "2",
+    "slug": "moletom-cinza",
+    "name": "Moletom Cinza",
+    "description": "Moletom com capuz, felpudo por dentro e bolso canguru.",
+    "price": 18990,
+    "category": "Roupas",
+    "image": null,
+    "stock": 12
+  },
+  {
+    "id": "3",
+    "slug": "caneca-ceramica",
+    "name": "Caneca de Cerâmica",
+    "description": "Caneca de 350 ml, própria para micro-ondas e lava-louças.",
+    "price": 3490,
+    "category": "Casa",
+    "image": null,
+    "stock": 40
+  },
+  {
+    "id": "4",
+    "slug": "luminaria-de-mesa",
+    "name": "Luminária de Mesa",
+    "description": "Luz quente, haste ajustável e cabo de 1,5 m.",
+    "price": 12990,
+    "category": "Casa",
+    "image": null,
+    "stock": 8
+  },
+  {
+    "id": "5",
+    "slug": "mochila-urbana",
+    "name": "Mochila Urbana",
+    "description": "Compartimento para notebook de até 15 polegadas e tecido resistente à água.",
+    "price": 21990,
+    "category": "Acessórios",
+    "image": null,
+    "stock": 15
+  },
+  {
+    "id": "6",
+    "slug": "garrafa-termica",
+    "name": "Garrafa Térmica",
+    "description": "Aço inox, mantém a temperatura por até 12 horas.",
+    "price": 8990,
+    "category": "Acessórios",
+    "image": null,
+    "stock": 30
+  }
+]
